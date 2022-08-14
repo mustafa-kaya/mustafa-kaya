@@ -2,7 +2,7 @@
 
 #### I'm `Mustafa` a self-taught full-stack developer from Istanbul, Turkey.
 
-> 😍 Love to write code and craft something useful.
+> 🖤 Love to write code and craft something useful.
 
 ### Projects & Tools
 
