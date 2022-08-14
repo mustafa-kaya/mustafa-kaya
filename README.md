@@ -2,9 +2,7 @@
 
 #### I'm `Mustafa` a self-taught full-stack developer from Istanbul, Turkey.
 
-> 🖤 Love to write code and craft something useful.
-
----
+> 👨‍💻 Love to write code and craft something useful.
 
 ### Projects & Tools
 
@@ -19,8 +17,6 @@ The works I completed in my learning process are below.
 | The Odin Project - 03 - Rock Paper Scissors | [`Github ↗️`](https://github.com/mustafa-kaya/the-odin-project-03--rock-paper-scissors) | [`View ↗️`](https://mustafa-kaya.github.io/the-odin-project-03--rock-paper-scissors/) |
 | The Odin Project - 02 - Landing Page        | [`Github ↗️`](https://github.com/mustafa-kaya/the-odin-project-02--landing-page)        | [`View ↗️`](https://mustafa-kaya.github.io/the-odin-project-02--landing-page/)        |
 | The Odin Project - 01 - Recipes             | [`Github ↗️`](https://github.com/mustafa-kaya/the-odin-project-01--recipes)             | [`View ↗️`](https://mustafa-kaya.github.io/the-odin-project-01--recipes/)             |
-
----
 
 ### Contact
 
