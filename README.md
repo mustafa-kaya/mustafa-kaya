@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-<!--
-**mustafa-kaya/mustafa-kaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm `Mustafa` a self-taught full-stack developer from Istanbul, Turkey.
 
-Here are some ideas to get you started:
+> 😍 Love to write code and craft something useful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects & Tools
+
+I use daily: `.js`, `.sass`, `webpack`, `figma`
+
+The works I completed in my learning process are below. ⬇
+
+| Project Name                                | Code                                                                                  | Live                                                                                |
+| ------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| The Odin Project - 03 - Rock Paper Scissors | [Github ↗️](https://github.com/mustafa-kaya/the-odin-project-03--rock-paper-scissors) | [View ↗️](https://mustafa-kaya.github.io/the-odin-project-03--rock-paper-scissors/) |
+| The Odin Project - 02 - Landing Page        | [Github ↗️](https://github.com/mustafa-kaya/the-odin-project-02--landing-page)        | [View ↗️](https://mustafa-kaya.github.io/the-odin-project-02--landing-page/)        |
+| The Odin Project - 01 - Recipes             | [Github ↗️](https://github.com/mustafa-kaya/the-odin-project-01--recipes)             | [View ↗️](https://github.com/mustafa-kaya/the-odin-project-01--recipes)             |
+
+### Contact
+
+Feel free to contact me about anything.
+
+[`Mail ↗️`](mailto:iletisim.mustafakaya@gmail.com)
+[`Github ↗️`](https://github.com/mustafa-kaya)
+[`Twitter ↗️`](https://twitter.com/mr_nocode)
