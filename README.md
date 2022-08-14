@@ -6,6 +6,8 @@
 
 ### Projects & Tools
 
+Nowadays, I am currently following [Odin Project](https://theodinproject.com/), which is a great resource.
+
 I use daily: `.js`, `.sass`, `webpack`, `figma`
 
 The works I completed in my learning process are below.
